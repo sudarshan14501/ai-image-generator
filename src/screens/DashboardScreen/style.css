@@ -1,0 +1,558 @@
+.dashboard-screen {
+  background-color: #040307;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.dashboard-screen .dashboard-2 {
+  background-color: #040307;
+  height: 1000px;
+  position: relative;
+  width: 1440px;
+}
+
+.dashboard-screen .header-3 {
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%);
+  background-color: transparent;
+  height: 100px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.dashboard-screen .pic-2 {
+  background-image: url(../../../static/img/pic.svg);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 40px;
+  height: 48px;
+  left: 1292px;
+  position: absolute;
+  top: 26px;
+  width: 48px;
+}
+
+.dashboard-screen .frame-67 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 86px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 1131px;
+  overflow: hidden;
+  padding: 10px 16px;
+  position: absolute;
+  top: 30px;
+}
+
+.dashboard-screen .coin-3 {
+  height: 16px;
+  position: relative;
+  width: 16px;
+}
+
+.dashboard-screen .text-wrapper-48 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .text-wrapper-49 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sora", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 100px;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 41px;
+  white-space: nowrap;
+}
+
+.dashboard-screen .frame-68 {
+  background-color: #0a0711;
+  border-radius: 24px;
+  height: 850px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 104px;
+  width: 295px;
+}
+
+.dashboard-screen .frame-69 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 48px;
+  left: 40px;
+  position: absolute;
+  top: 157px;
+}
+
+.dashboard-screen .frame-70 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.dashboard-screen .text-wrapper-50 {
+  color: #e9e9ec66;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-71 {
+  border: 1px solid;
+  border-color: #e9e9ec29;
+  border-radius: 12px;
+  height: 80px;
+  overflow: hidden;
+  position: relative;
+  width: 215px;
+}
+
+.dashboard-screen .close {
+  height: 24px;
+  left: 175px;
+  position: absolute;
+  top: 28px;
+  width: 24px;
+}
+
+.dashboard-screen .image-4 {
+  height: 32px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 24px;
+  width: 109px;
+}
+
+.dashboard-screen .frame-72 {
+  border: 1px solid;
+  border-color: #e9e9ec29;
+  border-radius: 12px;
+  height: 48px;
+  overflow: hidden;
+  position: relative;
+  width: 215px;
+}
+
+.dashboard-screen .text-wrapper-51 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.dashboard-screen .files-download-4 {
+  background-color: #8c03f9;
+  border: 1px solid;
+  border-color: #e9e9ec99;
+  border-radius: 40px;
+  height: 24px;
+  left: 175px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.dashboard-screen .files-download-5 {
+  background-color: #00e33e;
+  border: 1px solid;
+  border-color: #e9e9ec99;
+  border-radius: 40px;
+  height: 24px;
+  left: 175px;
+  position: absolute;
+  top: 12px;
+  width: 24px;
+}
+
+.dashboard-screen .frame-73 {
+  height: 28px;
+  position: relative;
+  width: 215px;
+}
+
+.dashboard-screen .frame-74 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.dashboard-screen .vector-4 {
+  height: 5px;
+  left: 188px;
+  position: absolute;
+  top: 22px;
+  width: 9px;
+}
+
+.dashboard-screen .frame-75 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 12px;
+  left: 40px;
+  position: absolute;
+  top: 40px;
+}
+
+.dashboard-screen .img-2 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.dashboard-screen .text-wrapper-52 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  position: relative;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-76 {
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  border-radius: 86px;
+  height: 40px;
+  left: 40px;
+  overflow: hidden;
+  position: absolute;
+  top: 770px;
+  width: 215px;
+}
+
+.dashboard-screen .text-wrapper-53 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 93px;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: absolute;
+  text-align: center;
+  top: 9px;
+  white-space: nowrap;
+}
+
+.dashboard-screen .frame-77 {
+  align-items: center;
+  display: inline-flex;
+  gap: 20px;
+  left: 1222px;
+  position: absolute;
+  top: 134px;
+}
+
+.dashboard-screen .text-wrapper-54 {
+  color: #e9e9ec99;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  text-decoration: underline;
+  width: fit-content;
+}
+
+.dashboard-screen .frame-78 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 40px;
+  left: 520px;
+  position: absolute;
+  top: 134px;
+}
+
+.dashboard-screen .frame-79 {
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 86px;
+  height: 80px;
+  overflow: hidden;
+  position: relative;
+  width: 608px;
+}
+
+.dashboard-screen .overlap-7 {
+  height: 48px;
+  left: 80px;
+  position: absolute;
+  top: 16px;
+  width: 512px;
+}
+
+.dashboard-screen .text-wrapper-55 {
+  color: #e9e9ec66;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 0;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 12px;
+  width: 465px;
+}
+
+.dashboard-screen .files-download-6 {
+  height: 48px;
+  left: 464px;
+  position: absolute;
+  top: 0;
+  width: 48px;
+}
+
+.dashboard-screen .group-8 {
+  height: 20px;
+  left: 32px;
+  position: absolute;
+  top: 30px;
+  width: 24px;
+}
+
+.dashboard-screen .overlap-group-9 {
+  height: 20px;
+  position: relative;
+}
+
+.dashboard-screen .star-16 {
+  height: 17px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 17px;
+}
+
+.dashboard-screen .star-17 {
+  height: 9px;
+  left: 15px;
+  position: absolute;
+  top: 7px;
+  width: 9px;
+}
+
+.dashboard-screen .star-18 {
+  height: 7px;
+  left: 11px;
+  position: absolute;
+  top: 13px;
+  width: 7px;
+}
+
+.dashboard-screen .frame-80 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 22px;
+  left: 520px;
+  position: absolute;
+  top: 238px;
+}
+
+.dashboard-screen .frame-81 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 24px;
+  position: relative;
+}
+
+.dashboard-screen .frame-82 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.dashboard-screen .frame-83 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+}
+
+.dashboard-screen .text-wrapper-56 {
+  color: #e9e9ec99;
+  font-family: "Sora", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.dashboard-screen .create-an-image-in {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  width: 608px;
+}
+
+.dashboard-screen .frame-84 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+}
+
+.dashboard-screen .frame-85 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 12px;
+  position: relative;
+}
+
+.dashboard-screen .frame-86 {
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 40px;
+  height: 32px;
+  overflow: hidden;
+  position: relative;
+  width: 32px;
+}
+
+.dashboard-screen .icon-frame-3 {
+  height: 16px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 16px;
+}
+
+.dashboard-screen .base-4 {
+  height: 16px;
+  left: -1763px;
+  position: absolute;
+  top: 769px;
+  width: 16px;
+}
+
+.dashboard-screen .union-5 {
+  height: 14px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 11px;
+}
+
+.dashboard-screen .frame-87 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.dashboard-screen .frame-88 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+}
+
+.dashboard-screen .instagram-post-6 {
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.dashboard-screen .frame-89 {
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.dashboard-screen .frame-90 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.dashboard-screen .instagram-post-7 {
+  height: 120px;
+  position: relative;
+  width: 120px;
+}
+
+.dashboard-screen .instagram-post-wrapper {
+  background-color: #e9e9ec;
+  border-radius: 4px;
+  height: 120px;
+  overflow: hidden;
+  position: relative;
+  width: 120px;
+}
+
+.dashboard-screen .instagram-post-8 {
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 120px;
+}

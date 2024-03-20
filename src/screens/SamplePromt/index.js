@@ -1,0 +1,1 @@
+export { SamplePromt } from "./SamplePromt";

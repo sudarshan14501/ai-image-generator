@@ -1,0 +1,417 @@
+.hero {
+  background-color: #040307;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.hero .div-3 {
+  background-color: #040307;
+  height: 1730px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.hero .overlap-2 {
+  background-image: url(../../../static/img/group-1094.png);
+  background-size: 100% 100%;
+  height: 383px;
+  left: 61px;
+  position: absolute;
+  top: 172px;
+  width: 1258px;
+}
+
+.hero .frame-21 {
+  align-items: center;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  left: 117px;
+  position: relative;
+  top: 42px;
+}
+
+.hero .frame-22 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 2px;
+  position: relative;
+}
+
+.hero .text-wrapper-17 {
+  color: #e9e9ec;
+  font-family: "Sora-Bold", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: -2.4px;
+  line-height: 88px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  width: 1084px;
+}
+
+.hero .frame-23 {
+  align-items: flex-end;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  justify-content: center;
+  position: relative;
+}
+
+.hero .text-wrapper-18 {
+  color: #e9e9ec;
+  font-family: "Sora-Bold", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: -2.4px;
+  line-height: 88px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hero .text-wrapper-19 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sora-Bold", Helvetica;
+  font-size: 80px;
+  font-weight: 700;
+  letter-spacing: -2.4px;
+  line-height: 88px;
+  margin-top: -1px;
+  position: relative;
+  text-align: center;
+  text-fill-color: transparent;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.hero .frame-24 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  border-radius: 52px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.hero .text-wrapper-20 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.hero .overlap-group-wrapper {
+  height: 21.9px;
+  position: relative;
+  width: 26.46px;
+}
+
+.hero .overlap-group-2 {
+  height: 22px;
+  position: relative;
+  width: 26px;
+}
+
+.hero .star-4 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.hero .star-5 {
+  height: 10px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.hero .star-6 {
+  height: 7px;
+  left: 12px;
+  position: absolute;
+  top: 15px;
+  width: 7px;
+}
+
+.hero .overlap-3 {
+  height: 1117px;
+  left: -23px;
+  position: absolute;
+  top: 613px;
+  width: 1486px;
+}
+
+.hero .background-image {
+  height: 880px;
+  left: 0;
+  position: absolute;
+  top: 199px;
+  width: 1486px;
+}
+
+.hero .overlap-group-3 {
+  height: 918px;
+  left: 23px;
+  position: relative;
+  width: 1440px;
+}
+
+.hero .element {
+  height: 812px;
+  left: 0;
+  mix-blend-mode: screen;
+  object-fit: cover;
+  position: absolute;
+  top: 106px;
+  width: 1440px;
+}
+
+.hero .noise {
+  height: 880px;
+  left: 0;
+  mix-blend-mode: soft-light;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.hero .frame-25 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 20px;
+  left: 123px;
+  position: absolute;
+  top: 0;
+}
+
+.hero .frame-26 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.hero .frame-27 {
+  background-image: url(../../../static/img/frame-1000003303.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.hero .frame-28 {
+  background-image: url(../../../static/img/frame-1000003304.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.hero .frame-29 {
+  background-image: url(../../../static/img/frame-1000003305.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.hero .frame-30 {
+  background-image: url(../../../static/img/frame-1000003303-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.hero .frame-31 {
+  background-image: url(../../../static/img/frame-1000003304-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 400px;
+  position: relative;
+  width: 400px;
+}
+
+.hero .image-wrapper {
+  background-image: url(../../../static/img/frame-1000003305.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  border-radius: 24px;
+  height: 400px;
+  overflow: hidden;
+  position: relative;
+  width: 400px;
+}
+
+.hero .image {
+  height: 408px;
+  left: -8px;
+  object-fit: cover;
+  position: absolute;
+  top: -4px;
+  width: 416px;
+}
+
+.hero .footer {
+  background-color: #0a0812;
+  height: 177px;
+  left: 23px;
+  position: absolute;
+  top: 940px;
+  width: 1440px;
+}
+
+.hero .frame-32 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 32px;
+  left: 587px;
+  position: absolute;
+  top: 80px;
+}
+
+.hero .text-wrapper-21 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.hero .text-wrapper-22 {
+  color: #e9e9ec99;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 400;
+  left: 1192px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: right;
+  top: 75px;
+}
+
+.hero .text-wrapper-23 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sora", Helvetica;
+  font-size: 58px;
+  font-weight: 600;
+  left: 100px;
+  letter-spacing: -1.74px;
+  line-height: 63.8px;
+  position: absolute;
+  text-fill-color: transparent;
+  top: 56px;
+  white-space: nowrap;
+}
+
+.hero .header-2 {
+  background: linear-gradient(180deg, rgb(0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%);
+  background-color: transparent;
+  height: 120px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.hero .frame-33 {
+  align-items: center;
+  display: inline-flex;
+  gap: 32px;
+  left: 1180px;
+  position: absolute;
+  top: 34px;
+}
+
+.hero .frame-34 {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  border-radius: 48px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px 32px;
+  position: relative;
+}
+
+.hero .text-wrapper-24 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+  background: transparent;
+  border: none;
+}
+
+.hero .text-wrapper-25 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sora", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 100px;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 41px;
+  white-space: nowrap;
+}

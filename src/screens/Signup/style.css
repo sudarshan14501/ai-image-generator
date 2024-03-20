@@ -1,0 +1,321 @@
+.signup {
+  background-color: #040307;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.signup .div-4 {
+  background-color: #040307;
+  height: 1000px;
+  position: relative;
+  width: 1440px;
+}
+
+.signup .overlap-wrapper {
+  background-color: #040307;
+  border-radius: 24px;
+  height: 736px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 132px;
+  width: 596px;
+}
+
+.signup .overlap-4 {
+  background-image: url(../../../static/img/12-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 736px;
+  position: relative;
+}
+
+.signup .frame-35 {
+  background-color: #ffffff29;
+  /* border: 1px solid; */
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0)) 1;
+  border-radius: 16px;
+  height: 80px;
+  left: 60px;
+  overflow: hidden;
+  position: absolute;
+  top: 140px;
+  width: 476px;
+}
+
+.signup .text-wrapper-26 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: absolute;
+  top: 19px;
+  width: 372px;
+}
+
+.signup .group-2 {
+  height: 22px;
+  left: 24px;
+  position: absolute;
+  top: 26px;
+  width: 26px;
+}
+
+.signup .overlap-group-4 {
+  height: 22px;
+  position: relative;
+}
+
+.signup .star-7 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.signup .star-8 {
+  height: 10px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.signup .star-9 {
+  height: 7px;
+  left: 12px;
+  position: absolute;
+  top: 15px;
+  width: 7px;
+}
+
+.signup .instagram-post {
+  height: 410px;
+  left: 60px;
+  position: absolute;
+  top: 326px;
+  width: 420px;
+}
+
+.signup .frame-36 {
+  align-items: center;
+  background-color: #ffffff29;
+  /* border: 1px solid; */
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0)) 1;
+  border-radius: 16px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 55px;
+  overflow: hidden;
+  padding: 12px 20px;
+  position: absolute;
+  top: 244px;
+}
+
+.signup .text-wrapper-27 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.signup .frame-37 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 34px;
+  left: 886px;
+  position: absolute;
+  top: 218px;
+}
+
+.signup .frame-38 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.signup .text-wrapper-28 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.signup .frame-39 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 35px;
+  position: relative;
+}
+
+.signup .frame-40 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.signup .text-wrapper-29 {
+  color: #e9e9ec99;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  width: 332px;
+}
+
+.signup .frame-41 {
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  border-radius: 74px;
+  height: 73px;
+  overflow: hidden;
+  position: relative;
+  width: 364px;
+}
+
+.signup .text-wrapper-30 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 134px;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+}
+
+.signup .group-3 {
+  height: 33px;
+  position: relative;
+  width: 364px;
+}
+
+.signup .overlap-group-5 {
+  height: 33px;
+  position: relative;
+}
+
+.signup .vector-2 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 364px;
+}
+
+.signup .frame-42 {
+  align-items: center;
+  background-color: #040307;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 174px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 0;
+}
+
+.signup .text-wrapper-31 {
+  color: #ffffff99;
+  font-family: "Sora", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.signup .frame-43 {
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 8px;
+  height: 57px;
+  overflow: hidden;
+  position: relative;
+  width: 364px;
+}
+
+.signup .text-wrapper-32 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.signup .image-2 {
+  height: 24px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}
+
+.signup .text-wrapper-33 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sora", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 1015px;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 131px;
+  white-space: nowrap;
+}

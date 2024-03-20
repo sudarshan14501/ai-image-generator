@@ -1,0 +1,335 @@
+.signup-filled {
+  background-color: #040307;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.signup-filled .div-6 {
+  background-color: #040307;
+  height: 1000px;
+  position: relative;
+  width: 1440px;
+}
+
+.signup-filled .frame-53 {
+  background-color: #040307;
+  border-radius: 24px;
+  height: 736px;
+  left: 100px;
+  overflow: hidden;
+  position: absolute;
+  top: 132px;
+  width: 596px;
+}
+
+.signup-filled .overlap-5 {
+  background-image: url(../../../static/img/12-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  height: 736px;
+  position: relative;
+}
+
+.signup-filled .frame-54 {
+  background-color: #ffffff29;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0)) 1;
+  border-radius: 16px;
+  height: 80px;
+  left: 60px;
+  overflow: hidden;
+  position: absolute;
+  top: 140px;
+  width: 476px;
+}
+
+.signup-filled .text-wrapper-36 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 14px;
+  font-weight: 600;
+  left: 69px;
+  letter-spacing: 0;
+  line-height: 19.6px;
+  position: absolute;
+  top: 19px;
+  width: 372px;
+}
+
+.signup-filled .group-5 {
+  height: 22px;
+  left: 24px;
+  position: absolute;
+  top: 26px;
+  width: 26px;
+}
+
+.signup-filled .overlap-group-6 {
+  height: 22px;
+  position: relative;
+}
+
+.signup-filled .star-10 {
+  height: 19px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 19px;
+}
+
+.signup-filled .star-11 {
+  height: 10px;
+  left: 16px;
+  position: absolute;
+  top: 8px;
+  width: 10px;
+}
+
+.signup-filled .star-12 {
+  height: 7px;
+  left: 12px;
+  position: absolute;
+  top: 15px;
+  width: 7px;
+}
+
+.signup-filled .instagram-post-4 {
+  height: 410px;
+  left: 60px;
+  position: absolute;
+  top: 326px;
+  width: 420px;
+}
+
+.signup-filled .frame-55 {
+  align-items: center;
+  background-color: #ffffff29;
+  border: 1px solid;
+  border-color: transparent;
+  border-image: linear-gradient(to bottom, rgb(255, 255, 255), rgba(255, 255, 255, 0)) 1;
+  border-radius: 16px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 55px;
+  overflow: hidden;
+  padding: 12px 20px;
+  position: absolute;
+  top: 244px;
+}
+
+.signup-filled .text-wrapper-37 {
+  color: #ffffff;
+  font-family: "Sora", Helvetica;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.signup-filled .text-wrapper-38 {
+  -webkit-background-clip: text !important;
+  -webkit-text-fill-color: transparent;
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  background-clip: text;
+  color: transparent;
+  font-family: "Sora", Helvetica;
+  font-size: 32px;
+  font-weight: 600;
+  left: 1015px;
+  letter-spacing: -0.96px;
+  line-height: 35.2px;
+  position: absolute;
+  text-align: center;
+  text-fill-color: transparent;
+  top: 131px;
+  white-space: nowrap;
+}
+
+.signup-filled .frame-56 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 34px;
+  left: 886px;
+  position: absolute;
+  top: 218px;
+}
+
+.signup-filled .frame-57 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+}
+
+.signup-filled .text-wrapper-39 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  position: relative;
+  width: fit-content;
+}
+
+.signup-filled .frame-58 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 35px;
+  position: relative;
+}
+
+.signup-filled .frame-59 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.signup-filled .text-wrapper-40 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  width: 332px;
+}
+
+.signup-filled .frame-60 {
+  align-items: center;
+  border: 1px solid;
+  border-color: #4ebfff;
+  border-radius: 8px;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  overflow: hidden;
+  padding: 16px;
+  position: relative;
+}
+
+.signup-filled .frame-61 {
+  background: linear-gradient(180deg, rgb(78, 191.28, 255) 0%, rgb(2, 54.8, 242) 100%);
+  border-radius: 74px;
+  height: 73px;
+  overflow: hidden;
+  position: relative;
+  width: 364px;
+}
+
+.signup-filled .text-wrapper-41 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 20px;
+  font-weight: 600;
+  left: 134px;
+  letter-spacing: -0.2px;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 24px;
+}
+
+.signup-filled .group-6 {
+  height: 33px;
+  position: relative;
+  width: 364px;
+}
+
+.signup-filled .overlap-group-7 {
+  height: 33px;
+  position: relative;
+}
+
+.signup-filled .vector-3 {
+  height: 1px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 364px;
+}
+
+.signup-filled .frame-62 {
+  align-items: center;
+  background-color: #040307;
+  border-radius: 8px;
+  display: inline-flex;
+  gap: 10px;
+  justify-content: center;
+  left: 174px;
+  overflow: hidden;
+  padding: 8px;
+  position: absolute;
+  top: 0;
+}
+
+.signup-filled .text-wrapper-42 {
+  color: #ffffff99;
+  font-family: "Sora", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.signup-filled .frame-63 {
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 8px;
+  height: 57px;
+  overflow: hidden;
+  position: relative;
+  width: 364px;
+}
+
+.signup-filled .text-wrapper-43 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  left: 72px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 16px;
+  white-space: nowrap;
+}
+
+.signup-filled .image-3 {
+  height: 24px;
+  left: 24px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  width: 24px;
+}

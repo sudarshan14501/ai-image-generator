@@ -1,0 +1,244 @@
+.sample-promt {
+  background-color: #040307;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.sample-promt .div-5 {
+  background-color: #040307;
+  height: 1000px;
+  overflow: hidden;
+  position: relative;
+  width: 1440px;
+}
+
+.sample-promt .text-wrapper-34 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 48px;
+  font-weight: 600;
+  left: 100px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 99px;
+}
+
+.sample-promt .frame-44 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 31px;
+  left: 100px;
+  position: absolute;
+  top: 208px;
+}
+
+.sample-promt .frame-45 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 20px;
+  position: relative;
+}
+
+.sample-promt .frame-46 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+}
+
+.sample-promt .instagram-post-2 {
+  height: 400px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.sample-promt .frame-47 {
+  align-items: flex-start;
+  display: inline-flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 8px;
+  position: relative;
+}
+
+.sample-promt .text-wrapper-35 {
+  color: #e9e9ec;
+  font-family: "Sora", Helvetica;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  position: relative;
+  width: 304px;
+}
+
+.sample-promt .group-4 {
+  height: 32px;
+  position: relative;
+  width: 76px;
+}
+
+.sample-promt .frame-48 {
+  align-items: flex-start;
+  display: inline-flex;
+  gap: 12px;
+  position: relative;
+}
+
+.sample-promt .icon-frame-wrapper {
+  border: 1px solid;
+  border-color: #e9e9ec33;
+  border-radius: 40px;
+  height: 32px;
+  overflow: hidden;
+  position: relative;
+  width: 32px;
+}
+
+.sample-promt .icon-frame {
+  height: 16px;
+  left: 8px;
+  position: relative;
+  top: 8px;
+  width: 16px;
+}
+
+.sample-promt .base {
+  height: 16px;
+  left: -4297px;
+  position: absolute;
+  top: 452px;
+  width: 16px;
+}
+
+.sample-promt .union {
+  height: 14px;
+  left: 2px;
+  position: absolute;
+  top: 1px;
+  width: 11px;
+}
+
+.sample-promt .frame-49 {
+  height: 32px;
+  position: relative;
+  width: 32px;
+}
+
+.sample-promt .base-2 {
+  height: 16px;
+  left: -4717px;
+  position: absolute;
+  top: 452px;
+  width: 16px;
+}
+
+.sample-promt .base-3 {
+  height: 16px;
+  left: -5137px;
+  position: absolute;
+  top: 452px;
+  width: 16px;
+}
+
+.sample-promt .instagram-post-3 {
+  height: 231px;
+  object-fit: cover;
+  position: relative;
+  width: 400px;
+}
+
+.sample-promt .union-wrapper {
+  background-image: url(../../../static/img/base.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: -4289px;
+  position: relative;
+  top: -101px;
+  width: 16px;
+}
+
+.sample-promt .union-2 {
+  height: 14px;
+  left: -4295px;
+  position: absolute;
+  top: -108px;
+  width: 11px;
+}
+
+.sample-promt .frame-50 {
+  height: 32px;
+  margin-left: -4245px;
+  margin-top: -101px;
+  position: relative;
+  width: 32px;
+}
+
+.sample-promt .img-wrapper {
+  background-image: url(../../../static/img/base.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: -4709px;
+  position: relative;
+  top: -101px;
+  width: 16px;
+}
+
+.sample-promt .union-3 {
+  height: 14px;
+  left: -4715px;
+  position: absolute;
+  top: -108px;
+  width: 11px;
+}
+
+.sample-promt .frame-51 {
+  height: 32px;
+  margin-left: -4665px;
+  margin-top: -101px;
+  position: relative;
+  width: 32px;
+}
+
+.sample-promt .icon-frame-2 {
+  background-image: url(../../../static/img/base.png);
+  background-size: 100% 100%;
+  height: 16px;
+  left: -5129px;
+  position: relative;
+  top: -101px;
+  width: 16px;
+}
+
+.sample-promt .union-4 {
+  height: 14px;
+  left: -5135px;
+  position: absolute;
+  top: -108px;
+  width: 11px;
+}
+
+.sample-promt .frame-52 {
+  height: 32px;
+  margin-left: -5085px;
+  margin-top: -101px;
+  position: relative;
+  width: 32px;
+}
+
+.sample-promt .cross-2 {
+  height: 48px;
+  left: 1292px;
+  position: absolute;
+  top: 100px;
+  width: 48px;
+}
